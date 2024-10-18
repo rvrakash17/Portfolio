@@ -65,7 +65,7 @@ export const project = [
     img: proImage6,
     title: "Music Player Website",
     desc: "",
-    link: "https://github.com/rvrakash17/Music-Player-Website.git",
+    link: "https://music-player-27s2dkwxn-3200106dsenggacins-projects.vercel.app",
     git: "https://github.com/rvrakash17/Music-Player-Website.git",
   },{
     id: 5,
