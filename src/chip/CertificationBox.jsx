@@ -22,6 +22,7 @@ const CertificationBox = () => {
   <img
     src={data.img}
     alt={data.title}
+    loading="lazy"
     className="object-fit w-full h-full hover:scale-125 transition duration-500 cursor-pointer rounded-[6px]"  // Inner element's radius set to match the requirement
   />
 </div>
